@@ -3,4 +3,4 @@ b = 12
 
 # Adding two numbers
 result = a + b
-print(res)
+print(result)
