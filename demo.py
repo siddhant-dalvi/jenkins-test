@@ -4,5 +4,5 @@ b = 12
 # Adding two numbers
 result = a + b
 print(result)
-print"Hello Jenkins")
-print"Hello")
+print("Hello Jenkins")
+print("Hello")
